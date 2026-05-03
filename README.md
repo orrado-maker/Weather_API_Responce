@@ -4,12 +4,13 @@ API project CMSC 319
 GUI tool for deciding what clothes to bring when traveling
 
 TABEL of CONTENTS
-API Project ------ main file (orchastration of program)
-API_request ------ request file for fetching information from the API
-comparisonLogic -- logic file for comparing data pulled from API requests
-db_save ---------- for saving user inputs on trips for later reference (not working currently)
-open_ui ---------- gui file for first inputs from user 
-return_ui -------- gui file for showing user results 
+
+1) API Project ------ main file (orchastration of program)
+2) API_request ------ request file for fetching information from the API
+3) comparisonLogic -- logic file for comparing data pulled from API requests
+4) db_save ---------- for saving user inputs on trips for later reference (not working currently)
+5) open_ui ---------- gui file for first inputs from user 
+6) return_ui -------- gui file for showing user results 
 
 This program is designed to make the decision on what clothes to bring before traveling using weather information that is pulled on your starting location to your destination.
 
